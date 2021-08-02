@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/tom/.oh-my-zsh'
+let g:netrw_dirhist_6='/Users/tom/Git/Hopper/Addons/buzzfeed-sso'
+let g:netrw_dirhist_5='/Users/tom/JetStack/Gitlab/personal-gke-cluster/variables/1-clusters'
+let g:netrw_dirhist_4='/Users/tom/JetStack/Just3Things/api/.git'
+let g:netrw_dirhist_3='/Users/tom/JetStack/Just3Things/helm-charts/charts/default-backend/templates'
+let g:netrw_dirhist_2='/Users/tom/JetStack/Just3Things/terraform-gke'
+let g:netrw_dirhist_1='/Users/tom/JetStack/Just3Things/terraform-gke/variables'
