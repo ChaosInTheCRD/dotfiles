@@ -1,3 +1,8 @@
+if empty(glob('~/.vim/tmp'))
+    silent !mkdir -p ~/.vim/tmp
+endif
+set directory=$HOME/.vim/tmp
+
 execute pathogen#infect()
 
 set number
